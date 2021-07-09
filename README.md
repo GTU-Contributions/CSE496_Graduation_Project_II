@@ -3,7 +3,7 @@ Gebze Technical University
 
 Graduation Project II - Spring 2018
 
-Instructor: Burcu Yilmaz
+Instructor: Assist. Prof. Burcu Yilmaz
 
 Topic: Named Entity Recognition (NER) with Deep Learning
 
